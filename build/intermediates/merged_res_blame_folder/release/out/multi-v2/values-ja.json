@@ -1,53 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-mergeReleaseResources-3:\\values-ja\\values-ja.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\syuns\\Documents\\YTH_1.0.3_resource\\src\\main\\res\\values-ja\\strings.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,96",
-                        "endColumns": "40,58",
-                        "endOffsets": "91,150"
-                    },
-                    "to": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "96,137",
-                        "endColumns": "40,58",
-                        "endOffsets": "132,191"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\syuns\\Documents\\YTH_1.0.3_resource\\src\\main\\theme\\values-ja\\strings.xml",
-                    "from": {
-                        "startLines": "3,2",
-                        "startColumns": "4,4",
-                        "startOffsets": "99,55",
-                        "endColumns": "40,43",
-                        "endOffsets": "135,94"
-                    },
-                    "to": {
-                        "startLines": "2,5",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,196",
-                        "endColumns": "40,43",
-                        "endOffsets": "91,235"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "com.kakao.talk.theme.apeach-mergeReleaseResources-3:/values-ja/values-ja.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\syuns\\Documents\\YTH_1.0.3_resource\\src\\main\\res\\values-ja\\strings.xml",
+                    "source": "C:\\Users\\visio\\Documents\\Ovein-Gyruik\\src\\main\\res\\values-ja\\strings.xml",
                     "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,99",
+                        "endColumns": "40,58",
+                        "endOffsets": "93,153"
                     },
                     "to": {
                         "startLines": "3,4",
@@ -58,13 +21,13 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\syuns\\Documents\\YTH_1.0.3_resource\\src\\main\\theme\\values-ja\\strings.xml",
+                    "source": "C:\\Users\\visio\\Documents\\Ovein-Gyruik\\src\\main\\theme\\values-ja\\strings.xml",
                     "from": {
                         "startLines": "3,2",
                         "startColumns": "4,4",
-                        "startOffsets": "110,55",
+                        "startOffsets": "113,57",
                         "endColumns": "51,54",
-                        "endOffsets": "157,105"
+                        "endOffsets": "160,107"
                     },
                     "to": {
                         "startLines": "2,5",

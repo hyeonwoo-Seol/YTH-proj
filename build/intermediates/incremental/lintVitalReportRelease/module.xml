@@ -1,12 +1,12 @@
 <lint-module
     format="1"
-    dir="C:\Users\syuns\Documents\YTH_1.0.3_resource"
+    dir="C:\Users\visio\Documents\Ovein-Gyruik"
     name=":"
     type="APP"
-    maven=":YTH_1.0.3_resource:"
+    maven=":Ovein-Gyruik:"
     gradle="7.4.2"
     buildFolder="build"
-    bootClassPath="C:\Users\syuns\AppData\Local\Android\Sdk\platforms\android-32\android.jar;C:\Users\syuns\AppData\Local\Android\Sdk\build-tools\32.0.0\core-lambda-stubs.jar"
+    bootClassPath="C:\Users\visio\AppData\Local\Android\Sdk\platforms\android-32\android.jar;C:\Users\visio\AppData\Local\Android\Sdk\build-tools\32.0.0\core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-32"
     neverShrinking="true">
