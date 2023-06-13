@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\syuns\Documents\YTH_1.0.3_resource"
+    name=":"
+    type="APP"
+    maven=":YTH_1.0.3_resource:"
+    gradle="7.4.2"
+    buildFolder="build"
+    bootClassPath="C:\Users\syuns\AppData\Local\Android\Sdk\platforms\android-32\android.jar;C:\Users\syuns\AppData\Local\Android\Sdk\build-tools\32.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -74,14 +74,14 @@
     <color name="theme_notification_background_pressed_color">#1F1F1F</color>
 
     <!-- Passcode -->
-    <color name="theme_passcode_color">#664242</color>
+    <color name="theme_passcode_color">#FFFFFF</color>
 
-    <color name="theme_passcode_keypad_color">#664242</color>
+    <color name="theme_passcode_keypad_color">#2B2929</color>
     <color name="theme_passcode_keypad_pressed_color">#CCB8B8</color>
-    <color name="theme_passcode_keypad_background_color">#FFF2F2</color>
+    <color name="theme_passcode_keypad_background_color">#FFFFFF</color>
     <color name="theme_passcode_keypad_pressed_background_color">#99FFDEDE</color>
 
-    <color name="theme_passcode_pattern_line_color">#FCC5C5</color>
+    <color name="theme_passcode_pattern_line_color">#AEA4A4</color>
 
 
     <!-- Chatroom -->
@@ -95,7 +95,7 @@
     <color name="theme_chatroom_bubble_you_color">#FFFFFF</color>
 
     <!-- Chat Unread Count -->
-    <color name="theme_chatroom_unread_count_color">#1F1F1F</color>
+    <color name="theme_chatroom_unread_count_color">#FFFFFF</color>
 
     <!-- Input Bar -->
     <color name="theme_chatroom_input_bar_color">#000000</color>

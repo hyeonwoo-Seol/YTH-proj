@@ -1,0 +1,10 @@
+com.kakao.talk.theme.apeach-pngs-0 C:\Users\syuns\Documents\YTH_1.0.3_resource\build\generated\res\pngs\release
+com.kakao.talk.theme.apeach-resValues-1 C:\Users\syuns\Documents\YTH_1.0.3_resource\build\generated\res\resValues\release
+com.kakao.talk.theme.apeach-rs-2 C:\Users\syuns\Documents\YTH_1.0.3_resource\build\generated\res\rs\release
+com.kakao.talk.theme.apeach-mergeReleaseResources-3 C:\Users\syuns\Documents\YTH_1.0.3_resource\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.kakao.talk.theme.apeach-mergeReleaseResources-4 C:\Users\syuns\Documents\YTH_1.0.3_resource\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.kakao.talk.theme.apeach-merged_res-5 C:\Users\syuns\Documents\YTH_1.0.3_resource\build\intermediates\merged_res\release
+com.kakao.talk.theme.apeach-main-6 C:\Users\syuns\Documents\YTH_1.0.3_resource\src\main\res
+com.kakao.talk.theme.apeach-main-7 C:\Users\syuns\Documents\YTH_1.0.3_resource\src\main\theme
+com.kakao.talk.theme.apeach-main-8 C:\Users\syuns\Documents\YTH_1.0.3_resource\src\main\theme-adv
+com.kakao.talk.theme.apeach-release-9 C:\Users\syuns\Documents\YTH_1.0.3_resource\src\release\res
