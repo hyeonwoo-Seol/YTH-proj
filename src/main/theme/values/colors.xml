@@ -11,24 +11,24 @@
 
     <!-- Title : 이름 -->
     <color name="theme_title_color">#D5D0D0</color>                             <!--Default-->
-    <color name="theme_title_pressed_color">#D5D0D0</color>                     <!--Pressed-->
+    <color name="theme_title_pressed_color">#E6E4E4</color>                     <!--Pressed-->
 
     <!-- Paragraph : 라스트메세지 -->
     <color name="theme_paragraph_color">#FFFFFF</color>                         <!--Default-->
-    <color name="theme_paragraph_pressed_color">#FFFFFF</color>                 <!--Pressed-->
+    <color name="theme_paragraph_pressed_color">#E6E4E4</color>                 <!--Pressed-->
 
     <!-- Description : 상태메세지 -->
     <color name="theme_description_color">#FFFFFF</color>                       <!--Default-->
-    <color name="theme_description_pressed_color">#FFFFFF</color>               <!--Pressed-->
+    <color name="theme_description_pressed_color">#E6E4E4</color>               <!--Pressed-->
 
     <!-- Feature : 서비스/피처별 컬러 -->
 
     <!-- Primary : 멜론/선물하기 등 버튼 텍스트 -->
     <color name="theme_feature_primary_color">#FFFFFF</color>                   <!--Default-->
-    <color name="theme_feature_primary_pressed_color">#FFFFFF</color>           <!--Pressed-->
+    <color name="theme_feature_primary_pressed_color">#E6E4E4</color>           <!--Pressed-->
 
     <!-- Services : Browse 3탭 -->
-    <color name="theme_feature_browse_tab_color">#EDEDED</color>                <!--Default-->
+    <color name="theme_feature_browse_tab_color">#E6E4E4</color>                <!--Default-->
     <color name="theme_feature_browse_tab_focused_color">#D5D0D0</color>        <!--Focused-->
 
 
@@ -47,34 +47,34 @@
     <color name="theme_header_cell_color">#1F1F1F</color>
 
     <!-- Body : 기본리스트 & 콘텐츠영역 셀 -->
-    <color name="theme_body_cell_color">#00FFDEDE</color>
-    <color name="theme_body_cell_pressed_color">#FFB3B3</color>
+    <color name="theme_body_cell_color">#1F1F1F</color>
+    <color name="theme_body_cell_pressed_color">#424242</color>
     <color name="theme_body_cell_border_color">#26664242</color>
 
     <!-- Body Secondary : 발견 & 더보기 콘텐츠 영역 셀 -->
     <color name="theme_body_secondary_cell_color">#1F1F1F</color>
 
     <!-- Tab : 메인탭 탭바 -->
-    <color name="theme_maintab_cell_color">#00FFFFFF</color>
+    <color name="theme_maintab_cell_color">#1F1F1F</color>
 
     <!-- Tab : 배너 -->
-    <color name="theme_tab_bannerbadge_background_color">#664142</color>
+    <color name="theme_tab_bannerbadge_background_color">#424242</color>
 
 
     <!-- Elements Color -->
 
     <!-- Direct Share BG -->
-    <color name="theme_direct_share_color">#664242</color>
-    <color name="theme_direct_share_button_color">#E87D7D</color>
+    <color name="theme_direct_share_color">#FFFFFF</color>
+    <color name="theme_direct_share_button_color">#A8A8A8</color>
     <color name="theme_direct_share_background_color">#1F1F1F</color>
 
     <!-- Notification Popup/Toast -->
-    <color name="theme_notification_color">#664242</color>
+    <color name="theme_notification_color">#FFFFFF</color>
     <color name="theme_notification_background_color">#1F1F1F</color>
     <color name="theme_notification_background_pressed_color">#1F1F1F</color>
 
     <!-- Passcode -->
-    <color name="theme_passcode_color">#FFFFFF</color>
+    <color name="theme_passcode_color">#D5D0D0</color>
 
     <color name="theme_passcode_keypad_color">#2B2929</color>
     <color name="theme_passcode_keypad_pressed_color">#CCB8B8</color>
