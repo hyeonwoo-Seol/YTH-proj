@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.kakao.talk.theme.apeach-mergeReleaseResources-3:/values-ko/values-ko.xml",
+            "outputFile": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-mergeReleaseResources-3:\\values-ko\\values-ko.xml",
             "map": [
                 {
                     "source": "C:\\Users\\syuns\\Documents\\YTH_1.0.3_resource\\src\\main\\theme\\values-ko\\strings.xml",
@@ -35,6 +35,43 @@
                         "startOffsets": "96,138",
                         "endColumns": "41,53",
                         "endOffsets": "133,187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.kakao.talk.theme.apeach-mergeReleaseResources-3:/values-ko/values-ko.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\syuns\\Documents\\YTH_1.0.3_resource\\src\\main\\theme\\values-ko\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "110,55",
+                        "endColumns": "49,54",
+                        "endOffsets": "155,105"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,201",
+                        "endColumns": "49,54",
+                        "endOffsets": "100,251"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\syuns\\Documents\\YTH_1.0.3_resource\\src\\main\\res\\values-ko\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,147",
+                        "endColumns": "41,53",
+                        "endOffsets": "142,196"
                     }
                 }
             ]
