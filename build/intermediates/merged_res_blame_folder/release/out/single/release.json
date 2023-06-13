@@ -4,6 +4,10 @@
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\drawable-xxhdpi\\theme_passcode_01_checked_image.png"
     },
     {
+        "merged": "com.kakao.talk.theme.apeach-merged_res-5:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.kakao.talk.theme.apeach-main-6:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
@@ -14,6 +18,10 @@
     {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable-xxhdpi_theme_maintab_ico_shopping_focused_image.png.flat",
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\drawable-xxhdpi\\theme_maintab_ico_shopping_focused_image.png"
+    },
+    {
+        "merged": "com.kakao.talk.theme.apeach-merged_res-5:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.kakao.talk.theme.apeach-main-6:/mipmap-xhdpi/ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable-xxhdpi_theme_passcode_background_image.png.flat",
@@ -58,6 +66,10 @@
     {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\color_theme_feature_music_color_selector.xml.flat",
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\adv\\color\\theme_feature_music_color_selector.xml"
+    },
+    {
+        "merged": "com.kakao.talk.theme.apeach-merged_res-5:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.kakao.talk.theme.apeach-main-6:/mipmap-mdpi/ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable-xxhdpi_theme_find_add_friend_button_image.png.flat",
@@ -216,10 +228,6 @@
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\drawable-xxhdpi\\theme_maintab_ico_call_image.png"
     },
     {
-        "merged": "com.kakao.talk.theme.apeach-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.kakao.talk.theme.apeach-main-6:/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable-sw600dp_theme_maintab_cell_image.png.flat",
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\drawable-sw600dp\\theme_maintab_cell_image.png"
     },
@@ -250,6 +258,10 @@
     {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable-sw600dp_theme_maintab_ico_openchat_image.png.flat",
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\drawable-sw600dp\\theme_maintab_ico_openchat_image.png"
+    },
+    {
+        "merged": "com.kakao.talk.theme.apeach-merged_res-5:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.kakao.talk.theme.apeach-main-6:/mipmap-xxxhdpi/ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable_theme_notification_background.xml.flat",
@@ -348,10 +360,6 @@
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.kakao.talk.theme.apeach-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.kakao.talk.theme.apeach-main-6:/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable-xxhdpi_theme_splash_image.png.flat",
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\drawable-xxhdpi\\theme_splash_image.png"
     },
@@ -360,12 +368,12 @@
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\drawable-xxhdpi\\theme_chatroom_bubble_you_01_image.9.png"
     },
     {
-        "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable-xxhdpi_theme_passcode_02_checked_image.png.flat",
-        "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\drawable-xxhdpi\\theme_passcode_02_checked_image.png"
-    },
-    {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-6:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable-xxhdpi_theme_passcode_02_checked_image.png.flat",
+        "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\drawable-xxhdpi\\theme_passcode_02_checked_image.png"
     },
     {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable-sw600dp_theme_maintab_ico_shopping_image.png.flat",
@@ -410,6 +418,10 @@
     {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\color_theme_paragraph_color_selector.xml.flat",
         "source": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-main-7:\\adv\\color\\theme_paragraph_color_selector.xml"
+    },
+    {
+        "merged": "com.kakao.talk.theme.apeach-merged_res-5:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.kakao.talk.theme.apeach-main-6:/mipmap-hdpi/ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\syuns\\.gradle\\daemon\\7.5.1\\com.kakao.talk.theme.apeach-merged_res-5:\\drawable-land-xxhdpi_theme_splash_image.png.flat",
