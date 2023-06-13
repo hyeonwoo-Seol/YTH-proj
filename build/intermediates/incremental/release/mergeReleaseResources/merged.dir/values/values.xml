@@ -34,7 +34,7 @@
     <color name="theme_notification_color">#664242</color>
     <color name="theme_paragraph_color">#FFFFFF</color>
     <color name="theme_paragraph_pressed_color">#FFFFFF</color>
-    <color name="theme_passcode_background_color">#FCC5C5</color>
+    <color name="theme_passcode_background_color">#1F1F1F</color>
     <color name="theme_passcode_color">#FFFFFF</color>
     <color name="theme_passcode_keypad_background_color">#FFFFFF</color>
     <color name="theme_passcode_keypad_color">#2B2929</color>

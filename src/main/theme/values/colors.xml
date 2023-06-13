@@ -38,7 +38,7 @@
     <!-- 채팅방 -->
     <color name="theme_chatroom_background_color">#FFDEDE</color>
     <!-- 잠금화면 -->
-    <color name="theme_passcode_background_color">#FCC5C5</color>
+    <color name="theme_passcode_background_color">#1F1F1F</color>
 
 
     <!-- Cell Color -->
